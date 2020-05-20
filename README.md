@@ -4,7 +4,7 @@
 
 Projects in this Reposatory are: 
 
-1. No Show Appointments:
-- Data related to fuel economy of an automobile which is distance traveled by a vehicle and the amount of fuel consumed.
+1. No Show Appointments
 
 2. Fuel Economy Data Analysis
+> - Data related to fuel economy of an automobile which is distance traveled by a vehicle and the amount of fuel consumed.
